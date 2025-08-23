@@ -39,15 +39,11 @@
 
 <h2 id="contents">Repository contents</h2>
 <pre><code>/final_finite_photon_paper_cleaned.pdf   # Camera-ready manuscript (as on arXiv/RG/Academia)
-CITATION.cff                             # Preferred citation (arXiv / DOI once assigned)
-LICENSE                                  # CC BY 4.0 (or your choice)
-README.md                                # This file (HTML embedded)
-</code></pre>
-
-<h2 id="build">Build (optional, if you ship LaTeX)</h2>
-<pre><code class="language-bash"># Requires TeX Live with REVTeX4-2
-latexmk -pdf main.tex
-# Expect a clean run: no ?? references; no catastrophic overfull boxes.
+/LICENSE-CC-BY-4.0          # full CC BY 4.0 text (for PDF/text/images you own)
+/LICENSE-MIT                 # MIT text (for code)
+/NOTICE                      # maps directories -> licenses
+/paper/ ...                  # manuscript, figures -> CC BY 4.0
+/code/  ...                  # scripts, notebooks  -> MIT
 </code></pre>
 
 <hr>
