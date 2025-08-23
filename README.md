@@ -72,20 +72,13 @@
 <pre><code class="language-bibtex">@article{Mondragon2025FinitePackets,
   title   = {Finite Photon Packets, Overlap Criterion, and the Bell Threshold},
   author  = {Mondragon, Todd Joel},
-  journal = {arXiv},
+  journal = {Zenodo (Preprint)},
   year    = {2025},
-  eprint  = {ARXIV_ID},
-  url     = {https://arxiv.org/abs/ARXIV_ID}
-}
-</code></pre>
-
-<p><strong>Software/Data DOI (optional, when Zenodo is connected)</strong></p>
-<pre><code class="language-bibtex">@misc{Mondragon2025Repo,
-  title  = {Finite Photon Packets, Overlap Criterion, and the Bell Threshold (Repository)},
-  author = {Mondragon, Todd Joel},
-  year   = {2025},
-  doi    = {10.5281/zenodo.ZENODO_DOI},
-  url    = {https://doi.org/10.5281/zenodo.ZENODO_DOI}
+  month = {8},
+  version = {1.0.0},
+  orcid = {https://doi.org/10.5281/zenodo.16932739},
+  doi  = {10.5281/zenodo.16932739},
+  url     = {https://doi.org/10.5281/zenodo.16932739}
 }
 </code></pre>
 
@@ -94,9 +87,9 @@
 <h2 id="links">Links</h2>
 <ul>
   <li><strong>arXiv:</strong> <a href="https://arxiv.org/abs/ARXIV_ID">https://arxiv.org/abs/ARXIV_ID</a></li>
-  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.ZENODO_DOI">https://doi.org/10.5281/zenodo.16932739</a></li>
+  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.16932739">https://doi.org/10.5281/zenodo.16932739</a></li>
   <li><strong>ORCID:</strong> <a href="https://orcid.org/0009-0004-7868-3021">https://orcid.org/0009-0004-7868-3021</a></li>
-  <li><strong>Repository:</strong> <a href="REPO_URL">REPO_URL</a></li>
+  <li><strong>Repository:</strong> <a href="https://github.com/ToddJoelMondragon/Finite_Photon_Packets-Overlap_Criterion_and_the_Bell_Threshold">https://github.com/ToddJoelMondragon/Finite_Photon_Packets-Overlap_Criterion_and_the_Bell_Threshold</a></li>
 </ul>
 
 <hr>
