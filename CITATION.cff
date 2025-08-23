@@ -6,16 +6,20 @@ date-released: "2025-08-23"
 authors:
   - family-names: Mondragon
     given-names: Todd Joel
-    orcid: "https://orcid.org/0009-0004-7868-3021"   # <-- your ORCID
-repository-code: "https://https://github.com/ToddJoelMondragon/Finite_Photon_Packets-Overlap_Criterion_and_the_Bell_Threshold"       # <-- your repo URL
-license: "CC-BY-4.0"                                  # or your code license
+    orcid: "https://orcid.org/0009-0004-7868-3021"   
+repository-code: "https://https://github.com/ToddJoelMondragon/Finite_Photon_Packets-Overlap_Criterion_and_the_Bell_Threshold"     
+license: "CC-BY-4.0"                                 
 
 preferred-citation:
-  type: "unpublished"
+  type: article
   title: "Finite Photon Packets, Overlap Criterion, and the Bell Threshold"
   authors:
     - family-names: Mondragon
       given-names: Todd Joel
-      orcid: "https://orcid.org/0000-0000-0000-0000"  # <-- your ORCID
+      orcid: "https://orcid.org/0009-0004-7868-3021"
+  journal: "Zenodo (Preprint)"
   year: 2025
-  url: "https://arxiv.org/abs/XXXX.XXXXX"             # fill in later
+  month: 8
+  version: "1.0.0"
+  doi: "10.5281/zenodo.16932739"
+  url: "https://doi.org/10.5281/zenodo.16932739"
