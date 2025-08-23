@@ -105,12 +105,16 @@ latexmk -pdf main.tex
 
 <hr>
 
-<h2 id="license">License</h2>
-<p>
-  This repository (text and attached PDF) is licensed under <strong>CC BY 4.0</strong> unless stated otherwise.
-  Any code contained within this repoository is licensed under <strong>MIT</strong> unless stated otherwise.
-</p>
+## Licensing
 
+**PDF/Text (paper):**  
+*Finite Photon Packets, Overlap Criterion, and the Bell Threshold* © 2025 Todd Joel Mondragon is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+See [`LICENSE-CC-BY-4.0`](./LICENSE-CC-BY-4.0) or <https://creativecommons.org/licenses/by/4.0/>.
+
+**Code:**  
+Released under the **MIT License**. See [`LICENSE-MIT`](./LICENSE-MIT).
+
+> Unless otherwise noted: `/paper/**` is CC BY 4.0, `/code/**` is MIT. Third-party content keeps its original license.
 <hr>
 
 <h2 id="ack">Acknowledgments</h2>
