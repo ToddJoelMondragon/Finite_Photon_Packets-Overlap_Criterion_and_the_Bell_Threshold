@@ -1,7 +1,7 @@
 # Finite Photon Packets, Overlap Criterion, and the Bell Threshold
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.16932739)
 [![ORCID](https://img.shields.io/badge/ORCID-0009-0004-7868-3021-A6CE39.svg)](https://orcid.org/0009-0004-7868-3021)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -94,7 +94,7 @@
 <h2 id="links">Links</h2>
 <ul>
   <li><strong>arXiv:</strong> <a href="https://arxiv.org/abs/ARXIV_ID">https://arxiv.org/abs/ARXIV_ID</a></li>
-  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.ZENODO_DOI">https://doi.org/10.5281/zenodo.ZENODO_DOI</a></li>
+  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.ZENODO_DOI">https://doi.org/10.5281/zenodo.16932739</a></li>
   <li><strong>ORCID:</strong> <a href="https://orcid.org/0009-0004-7868-3021">https://orcid.org/0009-0004-7868-3021</a></li>
   <li><strong>Repository:</strong> <a href="REPO_URL">REPO_URL</a></li>
 </ul>
