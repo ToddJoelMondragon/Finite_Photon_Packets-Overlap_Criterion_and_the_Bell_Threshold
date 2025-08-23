@@ -38,10 +38,11 @@
 <hr>
 
 <h2 id="contents">Repository contents</h2>
-<pre><code>/paper/final_finite_photon_paper_cleaned.pdf   # Camera-ready manuscript (as on arXiv/RG/Academia)
+<pre><code>
 /LICENSE-CC-BY-4.0          # full CC BY 4.0 text (for PDF/text/images you own)
 /LICENSE-MIT                 # MIT text (for code)
 /NOTICE                      # maps directories -> licenses
+/paper/Mondragon-2025-Finite-Photon-Packets-Overlap-Bell-Threshold.pdf   # Camera-ready manuscript (as on arXiv/RG/Academia)
 /paper/ ...                  # manuscript, figures -> CC BY 4.0
 /code/  ...                  # scripts, notebooks  -> MIT
 </code></pre>
