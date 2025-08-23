@@ -76,7 +76,7 @@
   year    = {2025},
   month = {8},
   version = {1.0.0},
-  orcid = {https://doi.org/10.5281/zenodo.16932739},
+  orcid = {https://orcid.org/0009-0004-7868-3021},
   doi  = {10.5281/zenodo.16932739},
   url     = {https://doi.org/10.5281/zenodo.16932739}
 }
