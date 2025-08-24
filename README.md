@@ -110,7 +110,7 @@ See [`LICENSE-CC-BY-4.0`](./LICENSE-CC-BY-4.0) or <https://creativecommons.org/l
 **Code:**  
 Released under the **MIT License**. See [`LICENSE-MIT`](./LICENSE-MIT).
 
-> Unless otherwise noted: `/paper/**` And `/latex/**` are CC BY 4.0, `/code/**` is MIT. Third-party content keeps its original license.
+> Unless otherwise noted: `/paper/**` and `/latex/**` are CC BY 4.0, `/code/**` is MIT. Third-party content keeps its original license.
 <hr>
 
 <h2 id="ack">Acknowledgments</h2>
