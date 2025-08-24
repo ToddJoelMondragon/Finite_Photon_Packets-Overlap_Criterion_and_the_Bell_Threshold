@@ -1,5 +1,10 @@
 # Finite Photon Packets, Overlap Criterion, and the Bell Threshold
 
+**Contact**  
+For correspondence regarding this work:  
+📧 [toddjoelmondragon@gmail.com](toddjoelmondragon@gmail.com)  
+(For research correspondence — please use responsibly.)
+
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16932739.svg)](https://doi.org/10.5281/zenodo.16932739)
 [![ORCID](https://img.shields.io/badge/ORCID-0009-0004-7868-3021-A6CE39.svg)](https://orcid.org/0009-0004-7868-3021)
