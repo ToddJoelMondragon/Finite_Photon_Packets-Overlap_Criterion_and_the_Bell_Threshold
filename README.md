@@ -7,7 +7,7 @@ For correspondence regarding this work:
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16932739.svg)](https://doi.org/10.5281/zenodo.16932739)
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0004-7868-3021-A6CE39.svg)](https://orcid.org/0009-0004-7868-3021)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0004-7868-3021-orange.svg)](https://orcid.org/0009-0004-7868-3021)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 <blockquote>
