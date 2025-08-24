@@ -19,7 +19,7 @@ For correspondence regarding this work:
 
 <hr>
 
-<h2 id="abstract">Abstract (1-paragraph)</h2>
+<h2 id="abstract">Abstract</h2>
 <p>
   We define the photon packet length &ell; &equiv; c&nbsp;&tau;<sub>emit</sub>&nbsp;&kappa; and show that in
   loophole-free Bell tests evaluated with CH/CH&ndash;Eberhard (no post-selection, no-clicks counted),
