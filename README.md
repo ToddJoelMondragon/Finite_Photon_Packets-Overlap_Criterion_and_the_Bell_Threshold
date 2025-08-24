@@ -55,7 +55,7 @@ For correspondence regarding this work:
 
 <hr>
 
-<h2 id="bench-tests">Falsifiable bench tests (one-pager for experimentalists)</h2>
+<h2 id="bench-tests">Falsifiable bench tests</h2>
 <ul>
   <li><strong>Bell vs. packet length:</strong> Fix geometry and analyzers; swap sources to vary &ell;:
     (i) unseeded Q-switched (short &ell;), (ii) injection-seeded (longer &ell;),
