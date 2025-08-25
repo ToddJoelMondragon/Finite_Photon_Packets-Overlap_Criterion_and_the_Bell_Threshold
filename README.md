@@ -44,13 +44,13 @@ For correspondence regarding this work:
 
 <h2 id="contents">Repository contents</h2>
 <pre><code>
+Mondragon-2025-Finite-Photon-Packets-Overlap-Bell-Threshold.pdf  # Camera-ready manuscript (as on arXiv/RG/Academia) -> CC BY 4.0  
 /LICENSE-CC-BY-4.0          # full CC BY 4.0 text (for PDF/text/images you own)
-/LICENSE-MIT                 # MIT text (for code)
-/NOTICE                      # maps directories -> licenses
-/Mondragon-2025-Finite-Photon-Packets-Overlap-Bell-Threshold.pdf -> CC BY 4.0  # Camera-ready manuscript (as on arXiv/RG/Academia)
-/latex/ ...                  # LaTeX files -> CC BY 4.0
-/paper/ ...                  # manuscript, figures -> CC BY 4.0
-/code/  ...                  # scripts, notebooks  -> MIT
+/LICENSE-MIT                # MIT text (for code)
+/NOTICE                     # maps directories -> licenses
+//latex/ ...                # LaTeX files -> CC BY 4.0
+/paper/ ...                 # manuscript, figures -> CC BY 4.0
+/code/  ...                 # scripts, notebooks  -> MIT
 </code></pre>
 
 <hr>
@@ -77,15 +77,15 @@ For correspondence regarding this work:
 
 <p><strong>Preprint (preferred)</strong></p>
 <pre><code class="language-bibtex">@article{Mondragon2025FinitePackets,
-  title   = {Finite Photon Packets, Overlap Criterion, and the Bell Threshold},
-  author  = {Mondragon, Todd Joel},
-  journal = {Zenodo (Preprint)},
-  year    = {2025},
-  month = {8},
-  version = {1.0.0},
-  orcid = {https://orcid.org/0009-0004-7868-3021},
-  doi  = {10.5281/zenodo.16932739},
-  url     = {https://doi.org/10.5281/zenodo.16932739}
+  title    = {Finite Photon Packets, Overlap Criterion, and the Bell Threshold},
+  author   = {Mondragon, Todd Joel},
+  journal  = {Zenodo (Preprint)},
+  year     = {2025},
+  month    = {8},
+  version  = {1.0.0},
+  orcid    = {https://orcid.org/0009-0004-7868-3021},
+  doi      = {10.5281/zenodo.16932739},
+  url      = {https://doi.org/10.5281/zenodo.16932739}
 }
 </code></pre>
 
